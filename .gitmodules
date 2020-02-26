@@ -1,0 +1,3 @@
+[submodule "GitChildProject"]
+	path = GitChildProject
+	url = https://github.com/khushbukolhe/GitChildProject.git
